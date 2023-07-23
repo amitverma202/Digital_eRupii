@@ -1,2 +1,2 @@
 # Jul22-2023
-Afsd Project (E-Rupii)
+Afsd Project (Digital E-Rupii) by  IIITH
